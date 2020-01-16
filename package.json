@@ -19,6 +19,8 @@
   },
   "devDependencies": {},
   "files": [
-    "index.js"
+    "index.js",
+    "README.md",
+    "LICENSE"
   ]
 }
