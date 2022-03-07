@@ -1,5 +1,7 @@
 # Auth0 Express Middleware
 
+[![Unofficial](https://img.shields.io/badge/Pantheon-Unofficial-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unofficial)
+
 Express middleware to validate Javascript Web Tokens.
 
 When building an API, it may be necessary to prevent unauthorized access. The easiest way to do this is to secure the API behind a third-party authentication system, such as [Auth0](https://www.auth0.com).
